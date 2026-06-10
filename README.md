@@ -336,27 +336,6 @@ What are the research objectives?
 Summarize the conclusions.
 ```
 
----
-
-## 📸 Screenshots
-
-### Home Page
-
-_Add Screenshot Here_
-
-### Chat Interface
-
-_Add Screenshot Here_
-
-### Citation Viewer
-
-_Add Screenshot Here_
-
-### Summary Panel
-
-_Add Screenshot Here_
-
----
 
 ## 🛠️ Tech Stack
 
@@ -459,11 +438,7 @@ This project is licensed under the MIT License.
 
 **Anmol Shukla**
 
-GitHub: https://github.com/yourusername
 
-LinkedIn: https://linkedin.com/in/yourprofile
-
-Email: your.email@example.com
 
 ---
 
