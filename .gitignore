@@ -1,0 +1,15 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+vectorstore/
+uploads/
+data/runtime/
+web/node_modules/
+web/.npm-cache/
+web/dist/
+web/test-results/
+web/playwright-report/
+web/*.tsbuildinfo
+.taste-skill/
